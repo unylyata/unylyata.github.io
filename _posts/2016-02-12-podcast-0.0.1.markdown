@@ -11,3 +11,6 @@ categories: podcast
 - [Почему умер Parse и чем его заменить](https://github.com/relatedcode/ParseAlternatives)
 - Изменения в Twitter, новая лента.
 - Linked-in упал - куда бежать hr
+- Коддинг на природе (вне помещения) — плюсы и минусы
+- Музыка во время коддинга
+- Много мониторов против одного
