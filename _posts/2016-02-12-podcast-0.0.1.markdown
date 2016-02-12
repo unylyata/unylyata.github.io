@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Пилотный/тестовый выпуск 0.0.1"
+date:   2016-02-12 22:22:18
+categories: подкаст
+---
+
+Темы:
+
+- [Docker переехал на Alpine lunux](https://www.brianchristner.io/docker-is-moving-to-alpine-linux)
+- [Почему умер Parse и чем его заменить](https://github.com/relatedcode/ParseAlternatives)
+- Изменения в Twitter, новая лента.
+- Linked-in упал - куда бежать hr
