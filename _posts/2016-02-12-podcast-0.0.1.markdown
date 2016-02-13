@@ -10,6 +10,7 @@ categories: podcast
 - [Docker переехал на Alpine lunux](https://www.brianchristner.io/docker-is-moving-to-alpine-linux)
 - Почему умер Parse и чем его заменить.
   [Parse alternatives на github](https://github.com/relatedcode/ParseAlternatives)
+- [htop 2.0 - теперь нативно на osx!](http://hisham.hm/htop/)
 - [Linked-in упал - куда бежать hr](http://utmagazine.ru/posts/17396-socset-linkedin-obvalilas-na-43-mozhno-li-pristupat-k-pokupkam)
 - Изменения в Twitter, новая лента.
 - Коддинг на природе (вне помещения) — плюсы и минусы
