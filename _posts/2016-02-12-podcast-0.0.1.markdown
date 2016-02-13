@@ -8,6 +8,7 @@ categories: podcast
 Темы:
 
 - [Docker переехал на Alpine lunux](https://www.brianchristner.io/docker-is-moving-to-alpine-linux)
+  и  [тонкий СentOS](http://seven.centos.org/2016/02/new-centos-atomic-host-available) с [kubernetes](http://kubernetes.io) на борту
 - Почему умер Parse и чем его заменить.
   [Parse alternatives на github](https://github.com/relatedcode/ParseAlternatives)
 - [htop 2.0 - теперь нативно на osx!](http://hisham.hm/htop/)
