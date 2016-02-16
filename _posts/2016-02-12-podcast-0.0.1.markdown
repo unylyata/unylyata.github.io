@@ -5,6 +5,11 @@ date:   2016-02-12 22:22:18
 categories: podcast
 ---
 
+Show Notes: 
+
+- [Rush - руби шелл Сергея](https://github.com/s-mage/rush)
+
+
 Темы:
 
 - [Docker переехал на Alpine lunux](https://www.brianchristner.io/docker-is-moving-to-alpine-linux)
