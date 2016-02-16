@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Первый/выпуск 0.0.2"
+date:   2016-02-16 12:24:30
+categories: podcast
+---
+
+Темы:
+Dead Pool
+
+План:
+
