@@ -19,7 +19,7 @@ layout: default
         </div>
         
         <div>
-          <a class="post-comments" href="{{ post.url | prepend: site.baseurl }}#disqus_thread">Комментарии</a>
+          <span class="disqus-comment-count" data-disqus-url="{{ post.url | prepend: site.baseurl }}"> <!-- Count will be inserted here --> </span>
         </div>
         
       </li>
