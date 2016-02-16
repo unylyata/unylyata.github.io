@@ -18,6 +18,10 @@ layout: default
           {{ post.content }}
         </div>
         
+        <div>
+          <a class="post-comments" href="{{ post.url | prepend: site.baseurl }}#disqus_thread">Комментарии</a>
+        </div>
+        
       </li>
     {% endfor %}
   </ul>
