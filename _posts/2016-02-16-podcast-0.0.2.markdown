@@ -3,6 +3,7 @@ layout: post
 title:  "Пилотный выпуск 0.0.2"
 date:   2016-02-16 06:22:18
 categories: podcast
+comments: true
 ---
 
 Темы: 
