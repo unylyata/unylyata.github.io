@@ -23,6 +23,7 @@ comments: true
 @todo накидайте еще фронтовых новостей
 
 Дополнительные темы:
+- [Попытка Microsoft купить слак](http://techcrunch.com/2016/03/04/source-microsoft-mulled-an-8-billion-bid-for-slack-will-focus-on-skype-instead)
 - Dead Pool
 - Cross Over в россии, ожидания и реальность, сравненение с конкурентами
 - ДиКаприо и его оскар, насколько ему помог msqrd.me (поздравляем ДиКаприо)
