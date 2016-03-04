@@ -1,13 +1,27 @@
 ---
 layout: post
-title:  "Пилотный выпуск 0.0.2"
+title:  "Первый выпуск"
 date:   2016-02-16 06:22:18
 categories: podcast
 comments: true
 ---
 
 Темы: 
+- Наш гость Андрей Мирошник - front-end разработчик.
+- Краткая биография
+- Прошлые места работы (Яндекс, etc)
+- [Typescript](http://www.typescriptlang.org) - плюсы и минусы. 
+- React
+- Есть ли жизнь на Кипре
+- Front-end тренды - [фреймворки](http://www.clock.co.uk/blog/javascript-frameworks-in-2016) и [хайп](https://dev.by/lenta/main/v-reytinge-populyarnyh-yazykov-programmirovaniya-redmonk-po-prezhnemu-lidiruyut-javascript-i-java)
 
+Новости:
+
+- Новый текстовый редактор от facebook
+
+@todo накидайте еще фронтовых новостей
+
+Дополнительные темы:
 - Dead Pool
 - Cross Over в россии, ожидания и реальность, сравненение с конкурентами
 - ДиКаприо и его оскар, насколько ему помог msqrd.me (поздравляем ДиКаприо)
