@@ -17,9 +17,9 @@ comments: true
 
 Новости:
 
-- Новый текстовый редактор от facebook
+- [Draft.js](https://facebook.github.io/draft-js/) визуальный редактор от facebook
 - [Классы в es6 - холивар](https://medium.com/@housecor/in-defense-of-javascript-classes-e50bf2270a95#.sbuoffkk0)
-- React.js Conf февраль 22 & 23 2016
+- [React.js Conf февраль 22 & 23 2016](http://conf.reactjs.com)
 - [Еnzyme](https://medium.com/airbnb-engineering/enzyme-javascript-testing-utilities-for-react-a417e5e5090f#.4akorw8kf)  - инструмент для тестирования react
 
 
