@@ -6,6 +6,14 @@ categories: podcast
 comments: true
 ---
 
+Show Notes:
+
+- [Spotware](https://www.spotware.com) - Компания в которой работает наш гость, Андрей Мирошник
+- [TypeScript](http://www.typescriptlang.org)
+- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+
+<hr>
+
 Темы:
 
 - Наш гость Андрей Мирошник - front-end разработчик.
