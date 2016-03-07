@@ -10,19 +10,14 @@ comments: true
 <br>
 
 
-Show Notes:
 
-- [Spotware](https://www.spotware.com) - Компания в которой работает наш гость, Андрей Мирошник
-- [TypeScript](http://www.typescriptlang.org)
-- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+Темы/Show Notes:
 
-
-Темы:
-
-- Наш гость Андрей Мирошник - front-end разработчик.
+- Наш гость Андрей Мирошник - front-end разработчик из [Spotware](https://www.spotware.com).
 - Краткая биография
 - Прошлые места работы (Яндекс, etc)
 - [Typescript](http://www.typescriptlang.org) - плюсы и минусы. 
+- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
 - React
 - Есть ли жизнь на Кипре
 - Front-end тренды - [фреймворки](http://www.clock.co.uk/blog/javascript-frameworks-in-2016) и [хайп](https://dev.by/lenta/main/v-reytinge-populyarnyh-yazykov-programmirovaniya-redmonk-po-prezhnemu-lidiruyut-javascript-i-java)
