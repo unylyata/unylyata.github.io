@@ -10,7 +10,9 @@ comments: true
 Темы/Show Notes:
 
 - Тренды на [github](https://github.com/trending)
-- Руби снова растет? Почему так много вакансий на RoR? [Tiobe странный](http://www.tiobe.com/tiobe_index)
+- Руби снова растет[(Tiobe)](http://www.tiobe.com/tiobe_index)? Почему так много вакансий на RoR? 
+- [DHH хочет выпилить JQuery из Rails](https://github.com/rails/rails/issues/25208)
+- Новый яп [kotlin](https://kotlinlang.org) или [How I fell in love with a programming language](https://m.signalvnoise.com/how-i-fell-in-love-with-a-programming-language-8933d5e749ed#.fgvt80y9p)
 - [Подборка фильмов о изнанке индустрии](https://xakep.ru/2016/05/31/15-documentaries/)
 
 
