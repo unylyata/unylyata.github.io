@@ -9,7 +9,9 @@ comments: true
 
 Темы/Show Notes:
 
-- 
+- Тренды на [github](https://github.com/trending)
+- Руби снова растет? Почему так много вакансий на RoR? [Tiobe странный](http://www.tiobe.com/tiobe_index)
+- [Подборка фильмов о изнанке индустрии](https://xakep.ru/2016/05/31/15-documentaries/)
 
 
 
