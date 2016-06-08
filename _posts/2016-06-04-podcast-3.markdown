@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "3й выпуск"
+title:  "3й выпуск - Тайланд и ruby"
 date:   2016-06-11 00:22:18
 categories: podcast
 comments: true
@@ -11,6 +11,7 @@ comments: true
 
 - Интервью с гостем - как живётся разработчику в Тае.
 - Особенности работы на удалёнке и что с этим делать
+- [MongoDB снова не работает](https://engineering.meteor.com/mongodb-queries-dont-always-return-all-matching-documents-654b6594a827#.m3nmx7tvw)
 
 
 
