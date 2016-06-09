@@ -11,7 +11,7 @@ comments: true
 Темы/Show Notes:
 
 - Наш гость - Илья Меньшиков ([unkmas](https://vk.com/unkmas)), full-stack разработчик.
-- Открытый тезаурус русского языка [сайт](https://russianword.net), [git-репозиторий](https://github.com/russianwordnet/yarn)
+- Открытый тезаурус русского языка - [сайт](https://russianword.net), [git-репозиторий](https://github.com/russianwordnet/yarn)
 - Тренды на [github](https://github.com/trending)
 - Руби снова растет[(Tiobe)](http://www.tiobe.com/tiobe_index)? Почему так много вакансий на RoR? 
 - [DHH хочет выпилить JQuery из Rails](https://github.com/rails/rails/issues/25208)
