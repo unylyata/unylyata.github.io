@@ -12,7 +12,11 @@ comments: true
 - Интервью с гостем - как живётся разработчику в Тае.
 - Особенности работы на удалёнке и что с этим делать
 - [MongoDB снова не работает](https://engineering.meteor.com/mongodb-queries-dont-always-return-all-matching-documents-654b6594a827#.m3nmx7tvw)
-
+- [Уязвимости в ImageMagick](https://www.linux.org.ru/news/security/12630654), [imagetragick - Make ImageMagick Great Again](https://imagetragick.com)
+- [До конца года состоится выход российских смартфонов на ОС Sailfish](http://www.kommersant.ru/doc/3008908)
+- [ВКонтакте тестирует приложение для онлайн-трансляций VK Live](https://daily.afisha.ru/news/2425-vkontakte-testiruet-prilozhenie-dlya-onlayn-translyaciy-vk-live/)
+- [В России геймеров признали спортсменами](https://www.gazeta.ru/tech/2016/06/08/8292761/games-are-cool.shtml)
+- [Apple представит iMessage для Android на WWDC 2016](http://mobiltelefon.ru/post_1465554976.html)
 
 
 План:
