@@ -10,6 +10,7 @@ comments: true
 Темы/Show Notes:
 
 - Интервью с гостем - как живётся разработчику в Тае.
+- Рецепты яишенки от Пироши
 - Особенности работы на удалёнке и что с этим делать
 - [MongoDB снова не работает](https://engineering.meteor.com/mongodb-queries-dont-always-return-all-matching-documents-654b6594a827#.m3nmx7tvw)
 - [Уязвимости в ImageMagick](https://www.linux.org.ru/news/security/12630654), [imagetragick - Make ImageMagick Great Again](https://imagetragick.com)
