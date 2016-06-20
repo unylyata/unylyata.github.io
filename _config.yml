@@ -1,12 +1,12 @@
 # Site settings
 title: Веселые унылята!
-email: your-email@domain.com
+email: unylyata@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Сайт бложика Веселых унылят
 baseurl: "http://unylyata.github.io" # the subpath of your site, e.g. /blog/
 url: "http://unylyata.github.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: unylyata_pod
+github_username:  unylyata
 
 # Build settings
 markdown: kramdown
