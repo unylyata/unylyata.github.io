@@ -6,7 +6,7 @@ categories: podcast
 comments: true
 ---
 
-<audio src="http://podcast.redcode.by/unylyata_04.mp3"></audio>
+<audio controls src="http://podcast.redcode.by/unylyata_04.mp3"></audio>
 
 Темы/Show Notes:
 
