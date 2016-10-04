@@ -6,6 +6,10 @@ categories: podcast
 comments: true
 ---
 
+<audio src="http://podcast.redcode.by/unylyata_04.mp3">
+<p>Your browser does not support the <code>audio</code> element.</p>
+</audio>
+
 Темы/Show Notes:
 
 - Интервью с гостем - [Евгением](https://twitter.com/Shiroginne), разработчиком из Беларуси передеслацировавшимся в германию.
