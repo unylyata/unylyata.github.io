@@ -6,6 +6,8 @@ categories: podcast
 comments: true
 ---
 
+<audio controls src="http://podcast.redcode.by/unylyata_05.mp3"></audio>
+
 Темы/Show Notes:
 
 - [Проект в Китае по социальному рейтингу человека](https://habrahabr.ru/post/152231/)
