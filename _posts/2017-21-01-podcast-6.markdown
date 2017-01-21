@@ -10,7 +10,8 @@ comments: true
 Темы/Show Notes:
 
 - Нужно ли ходить на конференции/митапы? Что это вообще такое - сборище хипстеров или среда для эфективного нетворкинга? 
-- В слаке появились [тредовые сообщения](https://slackhq.com/threaded-messaging-comes-to-slack-417ffba054bd#.9a2awypnr).
+- В слаке появились [тредовые сообщения](https://slackhq.com/threaded-messaging-comes-to-slack-417ffba054bd#.9a2awypnr)
+- [3д телики никому не нужны](https://www.cnet.com/news/shambling-corpse-of-3d-tv-finally-falls-down-dead/)
 - Кредо убийцы, его кто то смотрел? 
 
 План:
