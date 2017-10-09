@@ -6,6 +6,8 @@ categories: podcast
 comments: true
 ---
 
+<audio controls src="http://podcast.redcode.by/unylyata_pilot.mp3"></audio>
+
 Show Notes: 
 
 - [Rush - руби шелл Сергея](https://github.com/s-mage/rush)
