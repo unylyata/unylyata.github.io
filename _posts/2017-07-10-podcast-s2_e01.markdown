@@ -24,3 +24,9 @@ comments: true
 - Представление. Тема подкаста, цель подкаста, кто мы и откуда.
 - Тема подкаста: Открытие сезона!
 - Заключение, благодарности.
+
+Ведущие:
+
+- [Hatter](https://twitter.com/AndreiLiotenko)
+- [Shiroginne](https://twitter.com/Shiroginne)
+- [Unkmas](https://twitter.com/il_menshikov)
