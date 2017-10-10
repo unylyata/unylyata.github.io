@@ -6,7 +6,7 @@ categories: podcast
 comments: true
 ---
 
-<audio controls src="http://podcast.redcode.by/unylyata_s2_#01.mp3"></audio>
+<audio controls src="http://podcast.redcode.by/unylyata_s2_e01.mp3"></audio>
 
 Темы/Show Notes:
 - Наш специальный гость [ptzn](https://twitter.com/ptzn)!
