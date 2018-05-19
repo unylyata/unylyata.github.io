@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "#10 Веселые унылята"
-date:   2017-19-05 00:00:01
+date:   2017-18-05 00:00:01
 categories: podcast
 comments: true
 ---
