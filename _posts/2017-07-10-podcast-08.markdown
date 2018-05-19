@@ -1,12 +1,11 @@
 ---
 layout: post
-title:  "9 выпуск Веселых унылят"
-date:   2018-05-05 00:00:01
+title:  "8й выпуск весылых унылят"
+date:   2017-10-07 00:00:01
 categories: podcast
 comments: true
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3HVmix9h_E4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Темы/Show Notes:
 - Наш специальный гость [ptzn](https://twitter.com/ptzn)!
