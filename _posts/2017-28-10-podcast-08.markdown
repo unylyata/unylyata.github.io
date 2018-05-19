@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "8й выпуск весылых унылят"
+title:  "#8 Веселые унылята"
 date:   2017-10-28 00:00:01
 categories: podcast
 comments: true
