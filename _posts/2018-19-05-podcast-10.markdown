@@ -6,6 +6,7 @@ categories: podcast
 comments: true
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fowx0nAZ-Ew" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Темы/Show Notes:
 - Наш специальный гость Наш гость Андрей Мирошник - front-end разработчик из [1го выпуска](https://unylyata.github.io/podcast/2016/02/16/podcast-1.html)
